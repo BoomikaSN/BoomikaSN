@@ -1,5 +1,5 @@
 # 👋 Hi, I'm Boomika S N 🙌  
-🎓 A **Computer Science Student** who blends **technology**, **creativity**, and a little bit of sugar 🍰✨  
+🎓 A **Computer Science Student** 
 
 I love exploring **Data Science**, building **Full Stack Applications**, writing **stories and poems**, baking for loved ones, and making music on my 🎻 violin.  
 
