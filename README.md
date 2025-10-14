@@ -30,7 +30,7 @@ Python • SQL (Joins, Aggregations, Windows) • Excel (Pivot, VLOOKUP, Charts)
 ### 🍰 **Home Baker**
 - Baking is my happy lab 🧪🥐  
 - I experiment with cakes, cookies, and pastries — just like experimenting with code.  
-- Favorite bakes: Classic brownies, vanilla sponge cake, and filled cupcakes.
+- Favorite bakes: Classic brownies, vanilla sponge cake, and filled muffins.
 
 ---
 
