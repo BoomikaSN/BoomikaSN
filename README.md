@@ -12,7 +12,7 @@ Python • SQL (Joins, Aggregations, Windows) • Excel (Pivot, VLOOKUP, Charts)
 ---
 
 ### 🌐 **Full Stack Development**
-- 🖼️ **Frontend:** HTML5 | CSS3 | JavaScript (ES6+) | React.js | Next.js | Tailwind CSS  
+- 🖼️ **Frontend:** HTML5 | CSS3 | JavaScript (ES6+) | React.js  
 - 🧰 **Backend:** Node.js | Express.js | Flask | REST APIs  
 - 🗄️ **Databases:** MySQL | MongoDB  
 - 🚀 **Deployment & Tools:** Git & GitHub | Netlify | Linux  
@@ -21,22 +21,19 @@ Python • SQL (Joins, Aggregations, Windows) • Excel (Pivot, VLOOKUP, Charts)
 ---
 
 ### ✍️ **Creative Corner**
-- 📝 I write **short stories**, **poems**, and creative pieces that blend human emotion with everyday moments.  
-- 📚 Writing helps me express what code can’t — sometimes a story conveys what algorithms can’t calculate.  
-- ✍️ Genres I love: Slice of Life, Thoughtful Reflections, Modern Poetry.
+- 📝 I write **short stories**, **poems** - blending human emotion with everyday moments.  
 
 ---
 
 ### 🍰 **Home Baker**
 - Baking is my happy lab 🧪🥐  
-- I experiment with cakes, cookies, and pastries — just like experimenting with code.  
+- I experiment with cakes, cookies, and pastries.  
 - Favorite bakes: Classic brownies, vanilla sponge cake, and filled muffins.
 
 ---
 
 ### 🎻 **Student Violinist**
 - Learning violin has taught me **discipline**, **consistency**, and the beauty of small progress over time.  
-- I enjoy playing classical pieces and sometimes blending them with modern tunes 🎶
 
 ---
 
