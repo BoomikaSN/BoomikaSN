@@ -5,13 +5,13 @@ I love exploring **Data Science**, building **Full Stack Applications**, writing
 
 ---
 
-### 🧠 **Data Science**
+### **Data Science**
 Python • SQL (Joins, Aggregations, Windows) • Excel (Pivot, VLOOKUP, Charts) • Statistics • Pandas • Numpy • Matplotlib • Seaborn • Tableau • Power BI • Scikit-learn • SQLite • Linux • Apache Spark  
 - EDA, Feature Engineering, Model Training & Deployment (Flask)
 
 ---
 
-### 🌐 **Full Stack Development**
+### **Full Stack Development**
 -  **Frontend:** HTML5 | CSS3 | JavaScript (ES6+) | React.js  
 -  **Backend:** Node.js | Express.js | Flask | REST APIs  
 -  **Databases:** MySQL | MongoDB  
@@ -20,12 +20,12 @@ Python • SQL (Joins, Aggregations, Windows) • Excel (Pivot, VLOOKUP, Charts)
 
 ---
 
-### ✍️ **Creative Corner**
+### **Creative Corner**
 -  I write **short stories**, **poems** - blending human emotion with everyday moments.  
 
 ---
 
-### 🍰 **Home Baker**
+### **Home Baker**
 - Baking is my happy lab 🧪🥐  
 - I experiment with cakes, cookies, and pastries.  
 - Favorite bakes: Classic brownies, vanilla sponge cake, and filled muffins.
