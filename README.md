@@ -21,7 +21,7 @@ Python • SQL (Joins, Aggregations, Windows) • Excel (Pivot, VLOOKUP, Charts)
 ---
 
 ### **Creative Corner**
--  I write **short stories**, **poems** - blending human emotion with everyday moments.  
+  I write **short stories**, **poems** - blending human emotion with everyday moments.  
 
 ---
 
@@ -33,7 +33,7 @@ Python • SQL (Joins, Aggregations, Windows) • Excel (Pivot, VLOOKUP, Charts)
 ---
 
 ### 🎻 **Student Violinist**
-- Learning violin has taught me **discipline**, **consistency**, and the beauty of small progress over time.  
+ Learning violin has taught me **discipline**, **consistency**, and the beauty of small progress over time.  
 
 ---
 
