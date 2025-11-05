@@ -12,16 +12,16 @@ Python • SQL (Joins, Aggregations, Windows) • Excel (Pivot, VLOOKUP, Charts)
 ---
 
 ### 🌐 **Full Stack Development**
-- 🖼️ **Frontend:** HTML5 | CSS3 | JavaScript (ES6+) | React.js  
-- 🧰 **Backend:** Node.js | Express.js | Flask | REST APIs  
-- 🗄️ **Databases:** MySQL | MongoDB  
-- 🚀 **Deployment & Tools:** Git & GitHub | Netlify | Linux  
+-  **Frontend:** HTML5 | CSS3 | JavaScript (ES6+) | React.js  
+-  **Backend:** Node.js | Express.js | Flask | REST APIs  
+-  **Databases:** MySQL | MongoDB  
+-  **Deployment & Tools:** Git & GitHub | Netlify | Linux  
 
 
 ---
 
 ### ✍️ **Creative Corner**
-- 📝 I write **short stories**, **poems** - blending human emotion with everyday moments.  
+-  I write **short stories**, **poems** - blending human emotion with everyday moments.  
 
 ---
 
