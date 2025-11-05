@@ -40,4 +40,3 @@ Python • SQL (Joins, Aggregations, Windows) • Excel (Pivot, VLOOKUP, Charts)
 
 ---
 
-⭐ *“Between code and creativity — that’s where I live.”* ✨
