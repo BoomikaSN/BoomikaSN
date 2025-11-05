@@ -6,8 +6,7 @@ I love exploring **Data Science**, building **Full Stack Applications**, writing
 ---
 
 ### **Data Science**
-Python • SQL (Joins, Aggregations, Windows) • Excel (Pivot, VLOOKUP, Charts) • Statistics • Pandas • Numpy • Matplotlib • Seaborn • Tableau • Power BI • Scikit-learn • SQLite • Linux • Apache Spark  
-- EDA, Feature Engineering, Model Training & Deployment (Flask)
+Python • SQL (Joins, Aggregations, Windows) • Excel (Pivot, VLOOKUP, Charts) • Statistics • Pandas • Numpy • Matplotlib • Seaborn • Tableau • Power BI • Scikit-learn • SQLite • Linux • Apache Spark , EDA, Feature Engineering, Model Training & Deployment (Flask)
 
 ---
 
