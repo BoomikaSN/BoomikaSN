@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Boomika S N 🙌  
 🎓 A **Computer Science Student** 
 
-I love exploring **Data Science**, building **Full Stack Applications**, writing **stories and poems**, baking for loved ones, and making music on my 🎻 violin.  
+I love exploring **Data Science**, building **Full Stack websites**, writing **stories and poems**, baking for loved ones, and making music on my 🎻 violin.  
 
 ---
 
@@ -14,7 +14,7 @@ Python • SQL (Joins, Aggregations, Windows) • Excel (Pivot, VLOOKUP, Charts)
 -  **Frontend:** HTML5 | CSS3 | JavaScript (ES6+) | React.js  
 -  **Backend:** Node.js | Express.js | Flask | REST APIs  
 -  **Databases:** MySQL | MongoDB  
--  **Deployment & Tools:** Git & GitHub | Netlify | Linux  
+-  **Deployment & Tools:** Git & GitHub | Netlify 
 
 
 ---
