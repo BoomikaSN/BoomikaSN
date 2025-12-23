@@ -1,7 +1,7 @@
 #  Hi, I'm Boomika S N   
 🎓 A **Computer Science Student** 
 
-I love exploring **Data Science**, building **Full Stack websites** .  
+I love exploring **Data Science**, building **Front-End Development** .  
 
 ---
 
@@ -10,18 +10,8 @@ Python • SQL (Joins, Aggregations, Windows) • Excel (Pivot, VLOOKUP, Charts)
 
 ---
 
-### **Full Stack Development**
--  **Frontend:** HTML5 | CSS3 | JavaScript (ES6+) | React.js  
- 
-
-
-- I experiment with cakes, cookies, and pastries.  
-- Favorite bakes: Classic brownies, vanilla sponge cake, and filled muffins.
-
----
-
-### 🎻 **Student Violinist**
- Learning violin has taught me **discipline**, **consistency**, and the beauty of small progress over time.  
+### **Front-End Development**
+-  HTML5 | CSS3 | JavaScript (ES6+) | React.js   
 
 ---
 
