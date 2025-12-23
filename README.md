@@ -6,12 +6,12 @@ I love exploring **Data Science**, building **Front-End Development** .
 ---
 
 ### **Data Science**
-Python • SQL (Joins, Aggregations, Windows) • Excel (Pivot, VLOOKUP, Charts) • Statistics • Pandas • Numpy • Matplotlib • Seaborn • Tableau • Power BI • Scikit-learn • SQLite • Linux • Apache Spark , EDA, Feature Engineering, Model Training & Deployment (Flask)
+Python • SQL (Joins, Aggregations, Windows) • Excel (Pivot, VLOOKUP, Charts) • Statistics • Pandas • Numpy • Matplotlib • Seaborn • Tableau • Power BI • Scikit-learn • SQLite • Apache Spark , EDA, Feature Engineering, Model Training & Deployment (Flask)
 
 ---
 
 ### **Front-End Development**
--  HTML5 | CSS3 | JavaScript (ES6+) | React.js   
+-  HTML5 | CSS3 | Bootstarp(FrameWork) | JavaScript (ES6+) | React.js | C++ 
 
 ---
 
