@@ -1,7 +1,7 @@
 #  Hi, I'm Boomika S N   
 🎓 A **Computer Science Student** 
 
-I love exploring **Data Science**, building **Front-End Development** .  
+I love exploring **Data Science**, building **MERN Stack Development** .  
 
 ---
 
@@ -10,8 +10,8 @@ Python • SQL (Joins, Aggregations, Windows) • Excel (Pivot, VLOOKUP, Charts)
 
 ---
 
-### **Front-End Development**
--  HTML5 | CSS3 | Bootstarp(FrameWork) | JavaScript (ES6+) | React.js | C++ 
+### **MERN Stack Development**
+- MongoDB | Express.js | React.js | Node.js | REST APIs | Git & GitHub
 
 ---
 
