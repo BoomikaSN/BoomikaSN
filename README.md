@@ -1,20 +1,19 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Boomika+S+N&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Full-Stack+Developer+%7C+AI+Integration+Enthusiast&descAlignY=62&descSize=16" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:FFAFCC,100:FFC8DD&height=180&section=header&text=Boomika+S+N&fontSize=42&fontColor=6B2C4D&animation=twinkling&fontAlignY=32&desc=Full-Stack+Developer+%7C+AI+Integration+Enthusiast&descAlignY=62&descSize=16" width="100%"/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=3000&pause=1000&color=70A5FD&center=true&vCenter=true&width=750&lines=Full-Stack+Developer;AI+Integration+Enthusiast;Building+Real-Time+Web+Apps;React+%7C+TypeScript+%7C+Spring+Boot+%7C+Python)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=3000&pause=1000&color=FF69B4&center=true&vCenter=true&width=750&lines=Full-Stack+Developer+%F0%9F%8C%B8;AI+Integration+Enthusiast;Building+Real-Time+Web+Apps;React+%7C+TypeScript+%7C+Spring+Boot+%7C+Python)](https://git.io/typing-svg)
 
-![Profile Views](https://komarev.com/ghpvc/?username=BoomikaSN&color=blueviolet&style=flat-square&label=Profile+Views)
+![Profile Views](https://komarev.com/ghpvc/?username=BoomikaSN&color=ff69b4&style=flat-square&label=Profile+Views)
 
 </div>
 
-<img align="right" width="380" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif"/>
-
-## 💻 About Me
+## 💗 About Me
 
 ```javascript
 const boomika = {
     name: "Boomika S N",
+    pronouns: "she/her",
     location: "Coimbatore, Tamil Nadu, India",
     degree: "B.Tech, Computer Science & Business Systems",
     college: "KGiSL Institute of Technology (2024 – 2028)",
@@ -31,15 +30,13 @@ const boomika = {
 
     funFact: "I turn ASL & ISL hand gestures into real-time speech — right in the browser 🤟",
 
-    motto: () => "Clean architecture + intelligent automation = real-world impact"
+    motto: () => "Clean architecture + intelligent automation = real-world impact 💫"
 };
 
 console.log(boomika.motto());
 ```
 
-<br clear="right"/>
-
-## 🛠️ Tech Stack
+## 🎀 Tech Stack
 
 **Languages**
 
@@ -51,7 +48,7 @@ console.log(boomika.motto());
 
 **Frameworks & Libraries**
 
-![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![React](https://img.shields.io/badge/React-FF69B4?style=flat-square&logo=react&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
@@ -74,31 +71,31 @@ console.log(boomika.motto());
 
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
 ![Axios](https://img.shields.io/badge/Axios-5A29E4?style=flat-square&logo=axios&logoColor=white)
-![MediaPipe](https://img.shields.io/badge/MediaPipe-0097A7?style=flat-square&logo=mediapipe&logoColor=white)
+![MediaPipe](https://img.shields.io/badge/MediaPipe-FF69B4?style=flat-square&logo=mediapipe&logoColor=white)
 
 ## 📊 GitHub Stats
 
 <div align="center">
 <a href="https://github.com/BoomikaSN">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=BoomikaSN&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&bg_color=0d1117&title_color=70a5fd&icon_color=bf91f3&text_color=c9d1d9&border_radius=10"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=BoomikaSN&show_icons=true&hide_border=true&include_all_commits=true&count_private=true&bg_color=FFF0F5&title_color=D6336C&icon_color=FF69B4&text_color=8A2846&border_color=FFB6C1"/>
 </a>
 <a href="https://github.com/BoomikaSN">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BoomikaSN&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=70a5fd&text_color=c9d1d9&langs_count=8&border_radius=10"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BoomikaSN&layout=compact&hide_border=true&bg_color=FFF0F5&title_color=D6336C&text_color=8A2846&border_color=FFB6C1&langs_count=8"/>
 </a>
 </div>
 
 <div align="center">
-<img src="https://streak-stats.demolab.com?user=BoomikaSN&theme=tokyonight-duo&hide_border=true&background=0D1117&ring=70A5FD&fire=BF91F3&currStreakLabel=70A5FD&sideLabels=38BDAE&dates=8B949E&currStreakNum=C9D1D9&sideNums=C9D1D9&stroke=0D1117&border_radius=10"/>
+<img src="https://streak-stats.demolab.com?user=BoomikaSN&hide_border=true&background=FFF0F5&ring=FF69B4&fire=FF1493&currStreakLabel=D6336C&sideLabels=DB7093&dates=8A2846&currStreakNum=8A2846&sideNums=8A2846&stroke=FFB6C1&border_radius=10"/>
 </div>
 
 <div align="center">
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=BoomikaSN&theme=tokyo-night&bg_color=0d1117&color=70a5fd&line=bf91f3&point=38bdae&area=true&hide_border=true"/>
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=BoomikaSN&bg_color=FFF0F5&color=D6336C&line=FF69B4&point=8A2846&area=true&area_color=FFC8DD&hide_border=true"/>
 </div>
 
 ## 🏆 Trophy Wall
 
 <div align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=BoomikaSN&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7&margin-w=4"/>
+<img src="https://github-profile-trophy.vercel.app/?username=BoomikaSN&theme=juicyfresh&no-frame=true&no-bg=true&row=1&column=7&margin-w=4"/>
 </div>
 
 ## 🚀 Featured Projects
@@ -118,14 +115,38 @@ console.log(boomika.motto());
 
 <div align="center">
 
-| 🏆 | Achievement | Details |
+| 🎀 | Achievement | Details |
 |---|---|---|
-| 📝 | *Add your achievement* | *e.g. hackathon win, contest rank, LeetCode stats — fill in exact numbers here* |
-| 📝 | *Add your achievement* | *Your resume didn't list specific competition/award numbers — plug them in here* |
+| 🥇 | **Talespinner Short Story Contest** | **1st Prize** out of 60 participants — inter-collegiate contest, Dept. of English, Little Flower College (World Short Story Day) |
+| 🥈 | **Ideathon — National Science Day 2K25** | **2nd Place** out of 40 participants — Dept. of Science & Humanities, KGiSL Institute of Technology |
+| 🏆 | **Dev Day '25 (30-Hour Open Hackathon)** | **Top 22 Winner** out of 400 participants — awarded trophy + **₹2,000 cash prize** for individual contribution |
+| 🥉 | **AI for Healthcare Article Writing Competition** | **Second Runner-up** out of 400 participants — national competition by Hsuite (+HSpectrum) |
+| ✍️ | **Hashtag Kalakar National Writing Competition** | **Rank 120** out of **38,271 participants** nationwide; work featured in the official Hashtag Kalakar Magazine |
+| 🚀 | **NASA International Space Apps Challenge** | Built *"Will It Rain On My Parade?"* — a NASA climate-data weather-probability app, in a 36-hour global hackathon |
+| 🤖 | **PyExpo 2K25 — IDEA2EXPO Hackathon** | Built an AI-powered Mental Health Support Chatbot (Django, PyTorch, Hugging Face) with a 5-member team |
+| 🍔 | **MERN Stack Hackathon (Liveware)** | Built a food-selling website for pushcart vendors in an 8-hour full-stack hackathon |
+| 🏥 | **AI in Healthcare Hackathon** | Built an AI-powered medical report explainer end-to-end in a 30-hour hackathon at KGiSL |
+| 🎤 | **"Git Day" Technical Session** | Co-organized & presented a hands-on GitHub/Git training session for peers |
 
 </div>
 
-> 💡 Your resume doesn't list hackathon wins, contest ranks, or coding-platform stats yet — swap the placeholders above with real numbers whenever you have them, and this table will look great.
+<details>
+<summary><b>📜 Certifications & Additional Participation</b></summary>
+<br>
+
+- **Python Essentials 1 & 2** — Cisco & OpenEDG Python Institute
+- **Google Career Certificates** — Data Analytics Foundations · Digital Marketing & E-commerce Foundations
+- **Infosys Springboard** — IoT Foundation · Data Visualization (Seaborn) · Business Communication
+- **International Conference (RABSH 2025)** — Presented paper *"The Evolution of AI"*
+- **Open Source Day 2024** — IPS Tech Community, KGiSL Institute of Technology
+- **TATA Crucible Campus Quiz 2025** — Participant
+- **Abhivyakti National Article Writing Competition** — MNIT Jaipur (via Unstop)
+- **International Poetry Competition** — Bhopal School of Social Science
+- **National Science Day 2K25** — Poster Presentation
+- **Unstop Management Quiz Series** — September 2025
+- **TN-BEAT Expo 2026** — National exhibition & conclave, Codissia Coimbatore
+
+</details>
 
 ## 🎓 Education
 
@@ -148,6 +169,6 @@ console.log(boomika.motto());
 
 📫 **Reach me:** [boomikasn2006@gmail.com](mailto:boomikasn2006@gmail.com) · [LinkedIn](https://www.linkedin.com/in/boomika-nagaraj-06b58b336)
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer&animation=twinkling" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:FFC8DD,100:FFAFCC&height=120&section=footer&animation=twinkling" width="100%"/>
 
 </div>
