@@ -177,25 +177,14 @@ const boomika = {
 
 ---
 
-## ◈ Trophy Wall `🏆`
-
-<div align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=BoomikaSN&theme=juicyfresh&no-frame=true&no-bg=true&row=1&column=7&margin-w=4"/>
-</div>
-
----
-
 ## ◈ Achievements `🎖️`
 
 <div align="center">
 
 | 🎀 | Recognition | Details |
 |----|-------------|---------|
-| 🥇 | **Talespinner Short Story Contest** | 1st Prize — 60 participants, inter-collegiate |
-| 🥈 | **Ideathon — National Science Day 2K25** | 2nd Place — 40 participants |
 | 🏆 | **Dev Day '25 (30-Hr Open Hackathon)** | Top 22 / 400 — trophy + ₹2,000 cash prize |
-| 🥉 | **AI for Healthcare Article Writing** | 2nd Runner-up — 400 participants (Hsuite) |
-| ✍️ | **Hashtag Kalakar National Writing Comp.** | Rank 120 / 38,271 — published in magazine |
+| 🥈 | **Ideathon — National Science Day 2K25** | 2nd Place — 40 participants |
 | 🚀 | **NASA International Space Apps Challenge** | Built *"Will It Rain On My Parade?"* — 36-hr |
 | 🤖 | **PyExpo 2K25 Hackathon** | AI Mental Health Chatbot — team of 5 |
 | 🍔 | **MERN Stack Hackathon** | Food-vendor marketplace — 8-hr build |
@@ -213,59 +202,10 @@ const boomika = {
 - **Infosys Springboard** — IoT Foundation · Data Visualization (Seaborn) · Business Communication
 - **International Conference (RABSH 2025)** — Presented paper *"The Evolution of AI"*
 - **Open Source Day 2024** — IPS Tech Community, KGiSL Institute of Technology
-- **TATA Crucible Campus Quiz 2025** — Participant
-- **Abhivyakti National Article Writing Competition** — MNIT Jaipur (via Unstop)
-- **International Poetry Competition** — Bhopal School of Social Science
 - **National Science Day 2K25** — Poster Presentation
-- **Unstop Management Quiz Series** — September 2025
 - **TN-BEAT Expo 2026** — National exhibition & conclave, Codissia Coimbatore
 
 </details>
-
----
-
-## ◈ What I'm Up To `🔭`
-
-```yaml
-# boomika.config.yml
-
-current_focus:
-  - "Java + DSA — Striver's A2Z Sheet, daily LeetCode practice"
-  - "Prepping for campus placements (Zoho MTS · target: late 2027)"
-  - "Polishing HandSpeak into a flagship portfolio project"
-
-learning:
-  - "System Design fundamentals"
-  - "Cloud deployment — AWS / GCP, CI-CD pipelines"
-
-goals:
-  - "✦ Recover CGPA trajectory to 9+ from this semester onward"
-  - "✦ Ship polished, accessible full-stack projects"
-  - "✦ Land Zoho MTS / SDE role through campus placements"
-  - "✦ Keep building things worth showing off"
-
-open_to: ["Internships", "Collabs", "Open Source"]
-```
-
----
-
-## ◈ Dev Philosophy `🎀`
-
-<div align="center">
-
-```
-   ┌──────────┐    ┌──────────┐    ┌──────────┐    ┌───────────────┐
-   │  DESIGN  │──▶ │  BUILD   │──▶ │   TEST   │──▶ │     SHIP      │
-   └──────────┘    └──────────┘    └──────────┘    └───────┬───────┘
-                                                            │
-                                    ◀───────────────────────┘
-                                polish · refine · repeat
-
-           ✦ "Design it soft. Build it solid. Ship it real." ✦
-                                              — Boomika
-```
-
-</div>
 
 ---
 
