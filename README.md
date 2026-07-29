@@ -1,89 +1,288 @@
+<!-- ████████████████████████████████████████████████████████ -->
+<!--              BOOMIKA S N · GITHUB PROFILE                -->
+<!-- ████████████████████████████████████████████████████████ -->
+
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:F6DDE4,50:E8B4C0,100:D48CA0&height=170&section=header&text=Boomika%20S%20N&fontSize=38&fontColor=ffffff&fontAlignY=36&animation=fadeIn&desc=Full-Stack%20Developer%20%C2%B7%20AI%20Integration%20Enthusiast&descAlignY=58&descSize=15"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:FFAFCC,50:FF8FAB,100:C77DFF&height=190&section=header&text=Boomika+S+N&fontSize=44&fontColor=ffffff&fontAlignY=34&animation=twinkling&desc=Full-Stack+Developer+%E2%9C%A6+AI+Integration+Enthusiast&descAlignY=60&descSize=17"/>
 
 <a href="https://github.com/BoomikaSN">
-  <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=500&size=18&pause=1400&color=B4667A&center=true&vCenter=true&width=550&lines=Building+real-time%2C+accessible+web+apps;React+%C2%B7+TypeScript+%C2%B7+Spring+Boot+%C2%B7+Python" alt="Typing SVG"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Poppins&size=22&pause=1200&color=D6336C&center=true&vCenter=true&width=650&lines=%E2%9C%A6+Building+Real-Time+Web+Apps;%E2%9C%A6+React+%2B+Spring+Boot+%2B+FastAPI;%E2%9C%A6+AI-Powered+Product+Builder;%E2%9C%A6+Accessibility-First+UI+Design;%E2%9C%A6+KGiSL+Institute+of+Technology+%7C+CS+%26+BS" alt="Typing SVG"/>
 </a>
 
-<br/><br/>
+<br/>
 
-<a href="mailto:boomikasn2006@gmail.com"><img src="https://img.shields.io/badge/Email-D48CA0?style=flat-square&logo=gmail&logoColor=white"/></a>
-<a href="https://www.linkedin.com/in/boomika-nagaraj-06b58b336"><img src="https://img.shields.io/badge/LinkedIn-D48CA0?style=flat-square&logo=linkedin&logoColor=white"/></a>
-<a href="https://github.com/BoomikaSN"><img src="https://img.shields.io/badge/GitHub-D48CA0?style=flat-square&logo=github&logoColor=white"/></a>
+<p>
+  <a href="mailto:boomikasn2006@gmail.com">
+    <img src="https://img.shields.io/badge/📬_GMAIL-FF69B4?style=for-the-badge&logoColor=white&labelColor=D6336C"/>
+  </a>
+  <a href="https://www.linkedin.com/in/boomika-nagaraj-06b58b336" target="_blank">
+    <img src="https://img.shields.io/badge/💼_LINKEDIN-FF8FAB?style=for-the-badge&logoColor=white&labelColor=D6336C"/>
+  </a>
+  <a href="https://github.com/BoomikaSN" target="_blank">
+    <img src="https://img.shields.io/badge/🩰_GITHUB-ffffff?style=for-the-badge&logoColor=D6336C&labelColor=FFC8DD"/>
+  </a>
+</p>
+
+<img src="https://komarev.com/ghpvc/?username=BoomikaSN&label=PROFILE+VIEWS&color=ff69b4&style=flat-square&labelColor=6B2C4D"/>
 
 </div>
 
-<br/>
+---
 
-3rd-year CS & Business Systems student building full-stack web apps and applied AI integrations. I like clean architecture, accessible UI, and solving real problems — not just demoing them.
+## ◈ `$ whoami`
 
-<br/>
+```javascript
+const boomika = {
+  alias      : "Boomika ✦",
+  degree     : "B.Tech — Computer Science & Business Systems",
+  college    : "KGiSL Institute of Technology (2024–2028)",
+  location   : "Coimbatore, Tamil Nadu, India 🇮🇳",
 
-## Tech Stack
+  building   : [
+    "Real-Time AI-Powered Web Apps",
+    "Full-Stack Healthcare Platforms",
+    "Accessible, Interactive UIs",
+  ],
 
-**Frontend** &nbsp; ![React](https://img.shields.io/badge/-React-FADDE1?style=flat-square&logo=react&logoColor=B4667A) ![TypeScript](https://img.shields.io/badge/-TypeScript-FADDE1?style=flat-square&logo=typescript&logoColor=B4667A) ![Tailwind](https://img.shields.io/badge/-Tailwind-FADDE1?style=flat-square&logo=tailwindcss&logoColor=B4667A) ![Vite](https://img.shields.io/badge/-Vite-FADDE1?style=flat-square&logo=vite&logoColor=B4667A)
+  superpower : "Clean architecture × human-centered design",
+  philosophy : "Design it soft. Build it solid. Ship it real. 🎀",
+  open_to    : ["Internships", "Collabs", "Open Source"],
+};
+```
 
-**Backend** &nbsp; ![Spring](https://img.shields.io/badge/-Spring%20Boot-FADDE1?style=flat-square&logo=springboot&logoColor=B4667A) ![FastAPI](https://img.shields.io/badge/-FastAPI-FADDE1?style=flat-square&logo=fastapi&logoColor=B4667A) ![Node](https://img.shields.io/badge/-Node.js-FADDE1?style=flat-square&logo=node.js&logoColor=B4667A)
+---
 
-**Data & Tools** &nbsp; ![MySQL](https://img.shields.io/badge/-MySQL-FADDE1?style=flat-square&logo=mysql&logoColor=B4667A) ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-FADDE1?style=flat-square&logo=postgresql&logoColor=B4667A) ![Java](https://img.shields.io/badge/-Java-FADDE1?style=flat-square&logo=openjdk&logoColor=B4667A) ![Python](https://img.shields.io/badge/-Python-FADDE1?style=flat-square&logo=python&logoColor=B4667A) ![Figma](https://img.shields.io/badge/-Figma-FADDE1?style=flat-square&logo=figma&logoColor=B4667A)
+## ◈ Tech Arsenal `✦`
 
-<br/>
-
-## Projects
+<div align="center">
 
 <table>
 <tr>
-<td width="30%"><b><a href="https://github.com/BoomikaSN">HandSpeak</a></b><br/><sub>React · TypeScript · MediaPipe</sub></td>
-<td>Real-time ASL/ISL → text & speech interpreter, fully in-browser with zero backend. Custom landmark classification with live gesture stabilization.</td>
+<td align="center" width="140"><b>🎨 FRONTEND</b></td>
+<td>
+
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/React-FF69B4?style=flat-square&logo=react&logoColor=white)
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white)
+![Tailwind](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
+
+</td>
 </tr>
 <tr>
-<td><b><a href="https://github.com/BoomikaSN">Engineers Veedu</a></b><br/><sub>React · Spring Boot · MySQL · Gemini API</sub></td>
-<td>Full-stack construction tracker connecting owners and builders via role-based portals, with a Gemini-powered support assistant.</td>
+<td align="center"><b>⚙️ BACKEND</b></td>
+<td>
+
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white)
+
+</td>
 </tr>
 <tr>
-<td><b><a href="https://github.com/BoomikaSN">HemoLink</a></b><br/><sub>FastAPI · PostgreSQL</sub></td>
-<td>Real-time blood inventory platform for hospitals and blood banks — expiry tracking, live dashboards, role-based access.</td>
+<td align="center"><b>🗄️ DATABASES</b></td>
+<td>
+
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+
+</td>
 </tr>
 <tr>
-<td><b><a href="https://github.com/BoomikaSN">AI Report Explainer</a></b><br/><sub>React · Axios · SpeechSynthesis API</sub></td>
-<td>Translates clinical reports into plain language with voice playback and a WCAG-compliant, color-blind safe interface.</td>
+<td align="center"><b>🧰 TOOLS & LANG</b></td>
+<td>
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=cplusplus&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![MediaPipe](https://img.shields.io/badge/MediaPipe-FF69B4?style=flat-square&logo=mediapipe&logoColor=white)
+
+</td>
 </tr>
 </table>
 
-<br/>
-
-## GitHub Stats
-
-<div align="center">
-<img height="165em" src="https://github-readme-stats.vercel.app/api?username=BoomikaSN&show_icons=true&hide_border=true&include_all_commits=true&count_private=true&bg_color=FDF4F5&title_color=B4667A&icon_color=D48CA0&text_color=6B4457&border_color=F6DDE4"/>
-<img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BoomikaSN&layout=compact&hide_border=true&bg_color=FDF4F5&title_color=B4667A&text_color=6B4457&border_color=F6DDE4&langs_count=6"/>
 </div>
 
-<br/>
+---
 
-## Achievements
-
-| | |
-|---|---|
-| 🥇 | **1st Prize**, Talespinner Short Story Contest — 60 participants |
-| 🏆 | **Top 22 / 400**, Dev Day '25 30-Hour Hackathon — ₹2,000 prize |
-| ✍️ | **Rank 120 / 38,271**, Hashtag Kalakar National Writing Competition |
-| 🥈 | **2nd Place**, Ideathon — National Science Day 2K25 |
-| 🥉 | **2nd Runner-up**, AI for Healthcare Article Writing — 400 participants |
-
-<sub>Full list of hackathons & certifications on <a href="https://www.linkedin.com/in/boomika-nagaraj-06b58b336">LinkedIn</a></sub>
-
-<br/>
-
-## Education
-
-**B.Tech, Computer Science & Business Systems** — KGiSL Institute of Technology, 2024–2028
-
-<br/>
+## ◈ Shipped Projects `✦`
 
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:D48CA0,100:F6DDE4&height=110&section=footer&animation=fadeIn"/>
+```
+╔══════════════════════════════════════════════════════════════════════╗
+║  🤟  HANDSPEAK  ·  Real-Time AI Sign Language Interpreter            ║
+╠══════════════════════════════════════════════════════════════════════╣
+║  Browser-based ASL/ISL → text + speech translator with zero          ║
+║  backend dependency. Custom landmark classification, live gesture     ║
+║  stabilization, interactive skeletal canvas overlay.                  ║
+║  Stack: React · TypeScript · MediaPipe · Web Speech API              ║
+╚══════════════════════════════════════════════════════════════════════╝
+
+╔══════════════════════════════════════════════════════════════════════╗
+║  🏗️  ENGINEERS VEEDU  ·  Digital Construction Marketplace            ║
+╠══════════════════════════════════════════════════════════════════════╣
+║  Full-stack platform bridging property owners & builders through     ║
+║  secure role-based portals. 5-second live polling for milestone      ║
+║  sync + Gemini-powered RAG support assistant.                        ║
+║  Stack: React · Spring Boot · Hibernate · MySQL · Gemini API         ║
+╚══════════════════════════════════════════════════════════════════════╝
+
+╔══════════════════════════════════════════════════════════════════════╗
+║  🩸  HEMOLINK  ·  Full-Stack Healthcare Platform                     ║
+╠══════════════════════════════════════════════════════════════════════╣
+║  Real-time blood inventory coordination between hospitals & blood    ║
+║  banks. Automated expiry tracking, live dashboards, inter-hospital   ║
+║  transfer workflows, role-based access.                              ║
+║  Stack: FastAPI · PostgreSQL · REST APIs                             ║
+╚══════════════════════════════════════════════════════════════════════╝
+
+╔══════════════════════════════════════════════════════════════════════╗
+║  🩺  AI MEDICAL REPORT EXPLAINER  ·  Patient-Friendly Reports        ║
+╠══════════════════════════════════════════════════════════════════════╣
+║  Turns complex clinical reports into plain language. Interactive     ║
+║  term dictionary, TTS voice playback, WCAG-compliant color-blind     ║
+║  safe UI, multi-format upload with live progress tracking.           ║
+║  Stack: React · JavaScript · Axios · SpeechSynthesis API             ║
+╚══════════════════════════════════════════════════════════════════════╝
+```
 
 </div>
+
+---
+
+## ◈ GitHub Stats `📊`
+
+<div align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=BoomikaSN&show_icons=true&hide_border=true&include_all_commits=true&count_private=true&bg_color=FFF0F5&title_color=D6336C&icon_color=FF69B4&text_color=8A2846&border_color=FFB6C1"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BoomikaSN&layout=compact&hide_border=true&bg_color=FFF0F5&title_color=D6336C&text_color=8A2846&border_color=FFB6C1&langs_count=8"/>
+
+</div>
+
+<div align="center">
+<img src="https://streak-stats.demolab.com?user=BoomikaSN&hide_border=true&background=FFF0F5&ring=FF69B4&fire=FF1493&currStreakLabel=D6336C&sideLabels=DB7093&dates=8A2846&currStreakNum=8A2846&sideNums=8A2846&stroke=FFB6C1&border_radius=10"/>
+</div>
+
+<div align="center">
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=BoomikaSN&bg_color=FFF0F5&color=D6336C&line=FF69B4&point=8A2846&area=true&area_color=FFC8DD&hide_border=true"/>
+</div>
+
+---
+
+## ◈ Trophy Wall `🏆`
+
+<div align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=BoomikaSN&theme=juicyfresh&no-frame=true&no-bg=true&row=1&column=7&margin-w=4"/>
+</div>
+
+---
+
+## ◈ Achievements `🎖️`
+
+<div align="center">
+
+| 🎀 | Recognition | Details |
+|----|-------------|---------|
+| 🥇 | **Talespinner Short Story Contest** | 1st Prize — 60 participants, inter-collegiate |
+| 🥈 | **Ideathon — National Science Day 2K25** | 2nd Place — 40 participants |
+| 🏆 | **Dev Day '25 (30-Hr Open Hackathon)** | Top 22 / 400 — trophy + ₹2,000 cash prize |
+| 🥉 | **AI for Healthcare Article Writing** | 2nd Runner-up — 400 participants (Hsuite) |
+| ✍️ | **Hashtag Kalakar National Writing Comp.** | Rank 120 / 38,271 — published in magazine |
+| 🚀 | **NASA International Space Apps Challenge** | Built *"Will It Rain On My Parade?"* — 36-hr |
+| 🤖 | **PyExpo 2K25 Hackathon** | AI Mental Health Chatbot — team of 5 |
+| 🍔 | **MERN Stack Hackathon** | Food-vendor marketplace — 8-hr build |
+| 🩺 | **AI in Healthcare Hackathon** | Medical report explainer — 30-hr build |
+| 🎤 | **"Git Day" Technical Session** | Co-organized & presented Git training |
+
+</div>
+
+<details>
+<summary><b>📜 Certifications & Additional Participation</b></summary>
+<br>
+
+- **Python Essentials 1 & 2** — Cisco & OpenEDG Python Institute
+- **Google Career Certificates** — Data Analytics Foundations · Digital Marketing & E-commerce Foundations
+- **Infosys Springboard** — IoT Foundation · Data Visualization (Seaborn) · Business Communication
+- **International Conference (RABSH 2025)** — Presented paper *"The Evolution of AI"*
+- **Open Source Day 2024** — IPS Tech Community, KGiSL Institute of Technology
+- **TATA Crucible Campus Quiz 2025** — Participant
+- **Abhivyakti National Article Writing Competition** — MNIT Jaipur (via Unstop)
+- **International Poetry Competition** — Bhopal School of Social Science
+- **National Science Day 2K25** — Poster Presentation
+- **Unstop Management Quiz Series** — September 2025
+- **TN-BEAT Expo 2026** — National exhibition & conclave, Codissia Coimbatore
+
+</details>
+
+---
+
+## ◈ What I'm Up To `🔭`
+
+```yaml
+# boomika.config.yml
+
+current_focus:
+  - "Java + DSA — Striver's A2Z Sheet, daily LeetCode practice"
+  - "Prepping for campus placements (Zoho MTS · target: late 2027)"
+  - "Polishing HandSpeak into a flagship portfolio project"
+
+learning:
+  - "System Design fundamentals"
+  - "Cloud deployment — AWS / GCP, CI-CD pipelines"
+
+goals:
+  - "✦ Recover CGPA trajectory to 9+ from this semester onward"
+  - "✦ Ship polished, accessible full-stack projects"
+  - "✦ Land Zoho MTS / SDE role through campus placements"
+  - "✦ Keep building things worth showing off"
+
+open_to: ["Internships", "Collabs", "Open Source"]
+```
+
+---
+
+## ◈ Dev Philosophy `🎀`
+
+<div align="center">
+
+```
+   ┌──────────┐    ┌──────────┐    ┌──────────┐    ┌───────────────┐
+   │  DESIGN  │──▶ │  BUILD   │──▶ │   TEST   │──▶ │     SHIP      │
+   └──────────┘    └──────────┘    └──────────┘    └───────┬───────┘
+                                                            │
+                                    ◀───────────────────────┘
+                                polish · refine · repeat
+
+           ✦ "Design it soft. Build it solid. Ship it real." ✦
+                                              — Boomika
+```
+
+</div>
+
+---
+
+## ◈ Let's Build Together `🤝`
+
+<div align="center">
+
+> Working on something meaningful? I'd love to collaborate.
+> Open to **internships, open-source contributions, and good conversations about AI, accessibility, and clean architecture.**
+
+<br/>
+
+[![Email](https://img.shields.io/badge/📬_EMAIL-boomikasn2006@gmail.com-FF69B4?style=for-the-badge&labelColor=D6336C)](mailto:boomikasn2006@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/💼_LINKEDIN-Connect-FF8FAB?style=for-the-badge&labelColor=D6336C)](https://www.linkedin.com/in/boomika-nagaraj-06b58b336)
+
+</div>
+
+---
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:C77DFF,50:FF8FAB,100:FFAFCC&height=130&section=footer&text=BOOMIKA+%E2%9C%A6+S+N&fontSize=22&fontColor=ffffff&fontAlignY=68&animation=fadeIn"/>
