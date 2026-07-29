@@ -162,8 +162,8 @@ const boomika = {
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=BoomikaSN&show_icons=true&hide_border=true&include_all_commits=true&count_private=true&bg_color=FFF0F5&title_color=D6336C&icon_color=FF69B4&text_color=8A2846&border_color=FFB6C1"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BoomikaSN&layout=compact&hide_border=true&bg_color=FFF0F5&title_color=D6336C&text_color=8A2846&border_color=FFB6C1&langs_count=8"/>
+<img height="200em" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=BoomikaSN&theme=radical"/>
+<img height="200em" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=BoomikaSN&theme=radical"/>
 
 </div>
 
